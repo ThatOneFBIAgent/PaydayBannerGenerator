@@ -17,6 +17,7 @@ python payday_banner.py
 ```
 
 anddddd yeah that's pretty much it, enjoy :)
+Examples can be found under the "exports" folder.
 
 ## Features
 - From 0 to 10 skulls
@@ -30,6 +31,12 @@ anddddd yeah that's pretty much it, enjoy :)
 - Editable width
 - GIF and MP4 export w/ custom lenght
 - Supports auto calc for gif lenght for a smooth animation
+
+### Todo:
+- Font selection
+- and size (?)
+- make the color selection more concise and allow hex input
+- maybe use something other than tkinter? iunno.
 
 License:
 Affero General Public License v3
