@@ -2,7 +2,7 @@
 
 STEP 1:
 ```bash
-git clone https://github.com/ThatOneFBIAgent/paydaybannergen.git
+git clone https://github.com/ThatOneFBIAgent/PaydayBannerGenerator.git
 cd paydaybannergen
 ```
 
